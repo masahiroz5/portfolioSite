@@ -1,4 +1,16 @@
-# project
+# Portfolio Site
+
+## アプリの概要
+転職活動用のポートフォリオサイトになります。
+
+##  使用技術・環境
+- Vue(Nuxt.js)
+- CSS
+- Sass
+- デプロイ：Firebase Hosting
+
+## 作成者
+[masahiro](https://twitter.com/prograrning)
 
 ## Build Setup
 
