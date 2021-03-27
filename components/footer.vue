@@ -14,6 +14,8 @@ export default {};
 .warapper {
   min-height: 7vh;
   position: relative;
+  padding-bottom: 60px;
+  box-sizing: border-box;
 }
 footer {
   background-color: #2b4257;

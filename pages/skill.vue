@@ -13,7 +13,7 @@
           <li>2020年12月：React,ReactHooks</li>
           <li>2021年1月：TypeScript,FirebaseAuthentication</li>
           <li>2021年2月：ReactHooks,FirebaseCloudFirestore</li>
-          <li>2021年3月：Vue(Nuxt.js),Netlify</li>
+          <li>2021年3月：Vue(Nuxt.js),VueRouter</li>
           <br>
         </ul>
   </div>
