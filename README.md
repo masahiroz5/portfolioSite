@@ -4,12 +4,9 @@
 転職活動用のポートフォリオサイトになります。
 
 ##  使用技術・環境
-- HTML
+- Vue(Nuxt.js)
 - CSS
 - Sass
-- JavaScript,Jquery
-- 記法：Scss
-- CSS設計：FLOCSS（https://github.com/hiloki/flocss)
 - デプロイ：Firebase Hosting
 
 ## 作成者
