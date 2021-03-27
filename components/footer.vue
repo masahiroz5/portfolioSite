@@ -12,7 +12,7 @@ export default {};
 
 <style scoped>
 .warapper {
-  min-height: 7vh;
+  min-height: 100vh;
   position: relative;
   padding-bottom: 60px;
   box-sizing: border-box;
