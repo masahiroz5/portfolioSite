@@ -13,7 +13,7 @@
         <p class="work__img-description">イメージ画像</p>
       </div>
       <div class="work__right">
-        <h3 class="work__subtitle">サイトの概要</h3>
+        <h3 class="work__subtitle">概要</h3>
         <p class="work__description">
           学習や行動の実績を集約したポートフォリオサイトになります。
         </p>
@@ -45,7 +45,7 @@
         <p class="work__img-description">イメージ画像</p>
       </div>
       <div class="work__right">
-        <h3 class="work__subtitle">アプリの概要</h3>
+        <h3 class="work__subtitle">概要</h3>
         <p class="work__description">
           契約中のサブスクリプションが管理できるシンプルなアプリです。
         </p>
@@ -69,7 +69,7 @@
         <h3 class="work__subtitle">ソースコード</h3>
         <p class="work__description-link">
           <a target="_blank" href="https://subsc-app-js-852b0.web.app/"
-            >アプリはこちら(読み取り専用)</a
+            >アプリはこちら</a
           >
           <a target="_blank" href="https://github.com/masahiroz5/subsc-app-js"
             >Githubはこちら</a
@@ -88,7 +88,7 @@
         <p class="work__img-description">イメージ画像</p>
       </div>
       <div class="work__right">
-        <h3 class="work__subtitle">アプリの概要</h3>
+        <h3 class="work__subtitle">概要</h3>
         <p class="work__description">
           架空の観光ホテルをイメージして製作したHPになります。<br />
           PM＋4人チームとなり、実務での共同開発を想定して実装を進めました。<br />
@@ -129,7 +129,7 @@
       <div class="work__right">
         <h3 class="work__subtitle">こだわりポイント</h3>
         <p class="work__description">
-          ・5記事、最大7章に及ぶ内容の記事を作成(2021年2月5日時点)<br />
+          ・6記事、最大7章に及ぶ内容の記事を作成(2021年3月28日時点)<br />
           ・エラーの対応に苦労した点や便利なショートカットキーなどについて投稿しています。<br />
           ・初心者でも理解できるような説明を意識して記述しています。<br />
           ・今後も積極的にアウトプットしていきます。
@@ -257,6 +257,7 @@ export default {
 }
 a {
   text-decoration: none;
+  color: blue;
 }
 a:hover {
   text-decoration: underline;
