@@ -28,7 +28,7 @@
         <br />
         <h3 class="work__subtitle">ソースコード</h3>
         <p class="work__description-link">
-          <a target="_blank" href="https://github.com/masahiroz5/portfolio"
+          <a target="_blank" href="https://github.com/masahiroz5/portfolioSite"
             >Githubはこちら</a
           >
         </p>
