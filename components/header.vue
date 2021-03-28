@@ -23,7 +23,14 @@ header {
   padding-right: 50px;
   font-size: 20px;
   background-color: white;
-  box-shadow: 0px 10px 10px -5px rgba(0,0,0,0.5);
+  box-shadow: 0px 10px 10px -5px rgba(0, 0, 0, 0.5);
   margin-bottom: 30px;
+}
+
+@media screen and (max-width: 400px) {
+  header {
+    font-size: 15px;
+    margin: 20px auto;
+  }
 }
 </style>

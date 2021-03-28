@@ -262,4 +262,16 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+@media screen and (max-width:500px) {
+  .work__left {
+  float: none;
+  width: 100%;
+}
+
+.work__right {
+  float: none;
+  width: 100%;
+}
+}
 </style>

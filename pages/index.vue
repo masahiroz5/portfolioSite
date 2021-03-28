@@ -14,4 +14,9 @@ export default {}
   font-size: 60px;
   font-family: serif;
 }
+@media screen and (max-width: 400px) {
+  .title{
+    font-size: 40px;
+  }
+}
 </style>

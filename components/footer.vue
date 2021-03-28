@@ -29,4 +29,9 @@ footer {
   position: absolute;
   bottom: 0;
 }
+@media screen and (max-width: 400px) {
+  footer {
+    font-size: 10px;
+  }
+}
 </style>

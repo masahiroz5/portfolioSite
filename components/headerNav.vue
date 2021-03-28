@@ -45,4 +45,9 @@ export default {
   color: gray;
   font-size: 30px;
 }
+@media screen and (max-width: 400px) {
+  .nav__link {
+    font-size: 15px;
+  }
+}
 </style>
